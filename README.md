@@ -20,4 +20,5 @@ Disfruté mucho jugar con estos datos y usando esta plataforma web. Les adjunto 
 Link del proyecto en TABLEAU PUBLIC: https://public.tableau.com/app/profile/leticia6418/viz/ProyectoGameofThronesparaDataChallengeGrowUp/Story1
 
 
-![collage got](https://user-images.githubusercontent.com/80054717/187478686-b091bab7-6bcc-4f99-bebd-e47edf41d10e.png)
+
+![personajes mas asesinos collage](https://user-images.githubusercontent.com/80054717/187478852-6e0df392-ec76-4038-a526-9da5ebf01221.png)
