@@ -18,4 +18,6 @@ Disfruté mucho jugar con estos datos y usando esta plataforma web. Les adjunto 
 
 
 Link del proyecto en TABLEAU PUBLIC: https://public.tableau.com/app/profile/leticia6418/viz/ProyectoGameofThronesparaDataChallengeGrowUp/Story1
-![costado](https://user-images.githubusercontent.com/80054717/187478497-31863aae-e399-41bd-99c6-9e6b7a79ce6f.png)
+
+
+![collage got](https://user-images.githubusercontent.com/80054717/187478686-b091bab7-6bcc-4f99-bebd-e47edf41d10e.png)
