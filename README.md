@@ -2,7 +2,7 @@
 Realicé un proyecto para participar de un Data Challenge en Tableau Public 
 
 
-![letras version chica](https://user-images.githubusercontent.com/80054717/187475389-30a66deb-7bc7-4822-8c56-ec98b1ab647d.png)![collage got](https://user-images.githubusercontent.com/80054717/187475416-1bff5b1b-7ba2-4423-a3ec-bd05a510a43d.png)
+![letras version chica](https://user-images.githubusercontent.com/80054717/187475389-30a66deb-7bc7-4822-8c56-ec98b1ab647d.png)
 
 
 
@@ -18,3 +18,4 @@ Disfruté mucho jugar con estos datos y usando esta plataforma web. Les adjunto 
 
 
 Link del proyecto en TABLEAU PUBLIC: https://public.tableau.com/app/profile/leticia6418/viz/ProyectoGameofThronesparaDataChallengeGrowUp/Story1
+![costado](https://user-images.githubusercontent.com/80054717/187478497-31863aae-e399-41bd-99c6-9e6b7a79ce6f.png)
